@@ -1,6 +1,6 @@
 import os
 
-#Desenvolvedores = Matheus Stefanello & Tomas Biasotto
+#Desenvolvedor = Matheus Stefanello
 
 #FUNÇÕES
 def inicio():
